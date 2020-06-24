@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10098" started-at="2020-06-24T07:47:26Z" finished-at="2020-06-24T07:47:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10098" started-at="2020-06-24T07:47:26Z" finished-at="2020-06-24T07:47:37Z">
+      <class name="klmn.TestCase">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:klmn.TestCase@4439f31e]" name="beforeMethod" is-config="true" duration-ms="8944" started-at="2020-06-24T13:17:26Z" finished-at="2020-06-24T13:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:klmn.TestCase@4439f31e]" name="test" duration-ms="123" started-at="2020-06-24T13:17:35Z" finished-at="2020-06-24T13:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:klmn.TestCase@4439f31e]" name="afterMethod" is-config="true" duration-ms="1001" started-at="2020-06-24T13:17:36Z" finished-at="2020-06-24T13:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- klmn.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

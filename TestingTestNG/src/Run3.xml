@@ -1,0 +1,10 @@
+<suite name="Suite" parallel="classes" thread-count="2" >
+  <test name="Test">
+    <classes>
+      <class name="efgh.Class4"/>
+         <class name="efgh.Class5"/>
+         <class name="efgh.Class6"/>
+         <class name="efgh.Class7"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
